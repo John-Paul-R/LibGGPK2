@@ -30,6 +30,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatchBundle3", "Cross-Platf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatchBundledGGPK3", "Cross-Platform\PatchBundledGGPK3\PatchBundledGGPK3.csproj", "{56A8F315-4902-4259-A5BE-0273202B9F19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLIGGPK", "CLIGGPK\CLIGGPK.csproj", "{49EBB0C4-8149-4FD1-A343-81C61551F61F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{56A8F315-4902-4259-A5BE-0273202B9F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A8F315-4902-4259-A5BE-0273202B9F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A8F315-4902-4259-A5BE-0273202B9F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EBB0C4-8149-4FD1-A343-81C61551F61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EBB0C4-8149-4FD1-A343-81C61551F61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EBB0C4-8149-4FD1-A343-81C61551F61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EBB0C4-8149-4FD1-A343-81C61551F61F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

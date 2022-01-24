@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0-windows</TargetFramework>
     <Authors>aianlinb</Authors>
     <Copyright>Copyright © 2020-2022 aianlinb.</Copyright>
 	<Version>0.13.1</Version>
@@ -10,6 +9,7 @@
 	<NoWin32Manifest>true</NoWin32Manifest>
 	<DebugType>embedded</DebugType>
 	<ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+	<TargetFramework>net6.0-windows</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
